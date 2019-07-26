@@ -1,9 +1,9 @@
 # Site settings
-title: Zetsu
-email: zetsu@domain.com
-description: Um lindo tema feito para jekyll e com o <3
+title: Jimmie Gmaz
+email: jim.gmaz@gmail.com
+description: Personal webpage
 baseurl: "/zetsu"
-url: "http://nandomoreira.me"
+url: "http://jimmiegmaz.com"
 
 author:
   name     : 'Fernando Moreira'
