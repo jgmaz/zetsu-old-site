@@ -2,7 +2,7 @@
 title: Jimmie Gmaz
 email: jim.gmaz@gmail.com
 description: Personal webpage
-# baseurl: "/about"
+ baseurl: "/about"
 url: "http://jgmaz.github.io"
 
 #author:
