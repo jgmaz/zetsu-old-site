@@ -6,14 +6,14 @@ description: Personal webpage
 url: "http://jgmaz.github.io"
 
 author:
-  name     : 'Fernando Moreira'
-  email    : hi@nandomoreira.me
-  url      : http://nandomoreira.me
-  facebook : http://facebook.com/fernando.dev
-  twitter  : http://twitter.com/nandomoreirame
+  #name     : 'Fernando Moreira'
+  #email    : hi@nandomoreira.me
+  #url      : http://nandomoreira.me
+  #facebook : http://facebook.com/fernando.dev
+  #twitter  : http://twitter.com/nandomoreirame
 
 #github: https://github.com/nandomoreirame/zetsu
-disqus_shortname: "fernandomoreira"
+#disqus_shortname: "fernandomoreira"
 google_analytics: UA-52446115-1
 
 paginate: 2
