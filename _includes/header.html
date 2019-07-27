@@ -15,13 +15,7 @@
           <span></span>
         </a>
 
-        <ul class="nav">
-          {% for page in site.pages %}
-            {% if page.title and page.title != 'About' %}
-            <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
-            {% endif %}
-          {% endfor %}
-        </ul>
+
       </nav>
     </div>
 
