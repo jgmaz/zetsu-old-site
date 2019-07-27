@@ -2,18 +2,15 @@
 title: Jimmie Gmaz
 email: jim.gmaz@gmail.com
 description: Personal webpage
-# baseurl: "/zetsu"
+baseurl: "/about"
 url: "http://jgmaz.github.io"
 
 author:
-  name     : 'Fernando Moreira'
-  email    : hi@nandomoreira.me
-  url      : http://nandomoreira.me
-  facebook : http://facebook.com/fernando.dev
-  twitter  : http://twitter.com/nandomoreirame
+  name     : 'Jimmie Gmaz'
+  email    : jim.gmaz@gmail.com
+  url      : http://jgmaz.github.io
 
-github: https://github.com/nandomoreirame/zetsu
-disqus_shortname: "fernandomoreira"
+github: https://github.com/jgmaz/jgmaz.github.io
 google_analytics: UA-52446115-1
 
 paginate: 2
