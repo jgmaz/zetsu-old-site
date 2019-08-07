@@ -6,4 +6,4 @@ order: 2
 slug: cv
 ---
 
-cv
+<iframe src="/images/Jimmie Gmaz - CV.pdf"></iframe>
